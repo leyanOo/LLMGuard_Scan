@@ -1,0 +1,2 @@
+# LLMGuard_Scan
+将LLMGuard当作检测Ai的输入输出安全工具来使用的小脚本
