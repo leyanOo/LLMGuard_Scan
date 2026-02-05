@@ -1,4 +1,4 @@
-# LLM Guard_Scan - LLM 输入输出内容安全扫描工具
+# LLM Guard_Scan - LLM 输入输出风险检测工具
 
 一个基于 [protectai/llm-guard](https://github.com/protectai/llm-guard) 的**批量离线扫描脚本**，用于检测 Prompt Injection、Toxicity、Secrets 等输入风险，以及 NoRefusal、Bias、Relevance、Sensitive 等输出风险。
 
